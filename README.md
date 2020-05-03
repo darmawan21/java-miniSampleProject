@@ -1,2 +1,2 @@
 # java-miniSampleProject
-learning practice java -  displays even odd numbers/ menampilkan bilangan ganjil genap
+learning practice java from zero to hero
